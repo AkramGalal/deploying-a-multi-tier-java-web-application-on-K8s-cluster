@@ -36,4 +36,11 @@ The application consists of the following components:
 - Or scaled automatically using HPA/VPA.
 
 ## Deployment Status
-<img width="2423" height="788" alt="Screenshot 2025-09-14 214907" src="https://github.com/user-attachments/assets/03b5f1a3-7811-45c3-ad7b-a183dfacedbe" />
+- Check the status of myapp namespace.
+  
+  <img width="1552" height="811" alt="Screenshot 2025-09-21 222637" src="https://github.com/user-attachments/assets/7c0c1c20-4f6e-4b8d-a9e9-a951e45b4550" />
+
+- Access the application using the IP address of any VM of the cluster and the port number of the Loadbalancer service.
+  
+  <img width="3775" height="1934" alt="Screenshot 2025-09-21 222906" src="https://github.com/user-attachments/assets/7394836a-39a8-4cd2-b89e-1a95fb82c52e" />
+
