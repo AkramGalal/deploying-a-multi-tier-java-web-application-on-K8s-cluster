@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: vpromc
-        image: akramgalal/node.js:mmc
+        image: akramgalal/nodejs:mmc
         ports:
           - containerPort: 11211

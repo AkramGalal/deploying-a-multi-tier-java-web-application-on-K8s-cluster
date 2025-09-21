@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vpromq01
-        image: akramgalal/node.js:rmc
+        image: akramgalal/nodejs:rmq
         ports:
           - containerPort: 15672
         env: 

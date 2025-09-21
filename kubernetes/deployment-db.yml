@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: vprodb
-          image: akramgalal/node.js:db
+          image: akramgalal/nodejs:db
           ports:
             - containerPort: 3306
           env:

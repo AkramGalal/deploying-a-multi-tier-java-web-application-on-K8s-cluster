@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: vproapp
-        image: akramgalal/node.js:app
+        image: akramgalal/nodejs:app
         ports:
           - containerPort: 8080
