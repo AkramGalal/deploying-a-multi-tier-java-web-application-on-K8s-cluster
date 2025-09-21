@@ -21,7 +21,7 @@ The application consists of the following components:
 - A running Kubernetes cluster.
 - 9 K8s manifests are included in this repository.
 - DockerHub access to pull images.
-- All microservice images are available on Docker Hub [Docker Hub Repository](https://hub.docker.com/repository/docker/akramgalal/node.js/general)
+- All microservice images are available on Docker Hub [Docker Hub Repository](https://hub.docker.com/repository/docker/akramgalal/nodejs/general)
 
 ## Deployment Steps
 - Clone the repo.
